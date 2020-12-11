@@ -11,7 +11,7 @@ Language Detector is a basic library to roughly determine the language of given 
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install Captcha Generator
+Use the package manager [npm](https://www.npmjs.com/) to install Language Detector
 
 ```bash
 npm i @haileybot/language-detector
