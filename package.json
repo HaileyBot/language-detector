@@ -1,6 +1,6 @@
 {
     "name": "@haileybot/language-detector",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Basic library to roughly determine the language of input text",
     "main": "index.js",
     "scripts": {
