@@ -24,6 +24,12 @@ module.exports = text => {
             ' com ', ' do ', ' por ', ' te ', ' os ', ' bem ', ' em ', ' ele ', ' isso ', ' mas ',
             ' da ', ' como ', ' no ', ' sim ', ' as ', ' mais ', ' na ', ' meu ', ' você ', ' aqui ',
             'que', 'ent', 'com', 'nte', 'est', 'ava', 'ndo', 'ado', 'ara', 'par'
+        ],
+            tr: [
+            ' ama', ' demek ','çok' 'ara ', ' tr','sa ', ' as ', ' ne ', ' garip ',
+            ' kopya ', ' yap ', ' bb ', ' ana ', ' sayfa ', ' Çerez ', ' Dil ', ' İyi ', ' Sorun ', ' Menü',
+             ' HAYIR ', 'kuş','bilgisayar''su'
+            'evet', 'Uygulama','et', 'O' 'sen' 'ben' 'kız' 'erkek' 'onun' 'için' 'biz' 'niye' 'onlar' 'yine'
         ]
     };
 
