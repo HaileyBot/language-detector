@@ -1,29 +1,33 @@
 {
-  "name": "language-detector",
-  "version": "1.0.0",
-  "description": "Basic library to roughly determine the language of input text",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HaileyBot/language-detector.git"
-  },
-  "keywords": [
-    "nodejs",
-    "node",
-    "language",
-    "detection",
-    "language-detection",
-    "language-processing",
-    "npm",
-    "npm-package"
-  ],
-  "author": "cheesits456",
-  "license": "AGPL-3.0",
-  "bugs": {
-    "url": "https://github.com/HaileyBot/language-detector/issues"
-  },
-  "homepage": "https://github.com/HaileyBot/language-detector#readme"
+    "name": "@haileybot/language-detector",
+    "version": "1.0.0",
+    "description": "Basic library to roughly determine the language of input text",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HaileyBot/language-detector.git"
+    },
+    "bugs": {
+        "url": "https://github.com/HaileyBot/language-detector/issues",
+        "email": "quin@cheesits456.dev"
+    },
+    "funding": {
+        "type": "individual",
+        "url": "https://donate.haileybot.com"
+    },
+    "keywords": [
+        "nodejs",
+        "node",
+        "language",
+        "detection",
+        "language-detection",
+        "language-processing",
+        "npm",
+        "npm-package"
+    ],
+    "author": "cheesits456",
+    "license": "AGPL-3.0"
 }
