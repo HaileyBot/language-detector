@@ -24,6 +24,14 @@ module.exports = text => {
             ' com ', ' do ', ' por ', ' te ', ' os ', ' bem ', ' em ', ' ele ', ' isso ', ' mas ',
             ' da ', ' como ', ' no ', ' sim ', ' as ', ' mais ', ' na ', ' meu ', ' você ', ' aqui ',
             'que', 'ent', 'com', 'nte', 'est', 'ava', 'ndo', 'ado', 'ara', 'par'
+        ],
+        pl: [
+            " ty ", " ja ", " do ", " i ", " że ", " to ", " z ", " ja ",
+            " co ", " jest ", " w ", " ten ", " wiem ", " dla ", " no ", " have ", " my ", // "no" stands for "yes" in Polish lol
+            " t ", " właśnie ", " nie ", " zrobić ", " będę ", " na ", " twoje ", " było ", " my ",
+            " jej ", " jemu ", " do ", " kurwa ", " debil ", " chuj ", " przez ", " od ", " po ", "że",
+            " jeszcze ", " tej ", " może ", " jednak ", " bardzo ", " tysięcy ", " siema ", " innymi ",
+            " m.in. ", " około "
         ]
     };
 
