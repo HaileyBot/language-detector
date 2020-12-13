@@ -25,9 +25,15 @@ module.exports = text => {
             ' da ', ' como ', ' no ', ' sim ', ' as ', ' mais ', ' na ', ' meu ', ' você ', ' aqui ',
             'que', 'ent', 'com', 'nte', 'est', 'ava', 'ndo', 'ado', 'ara', 'par'
         ],
+        tr: [
+            ' ama', ' demek ','çok' 'ara ', ' tr','sa ', ' as ', ' ne ', ' garip ',
+            ' kopya ', ' yap ', ' bb ', ' ana ', ' sayfa ', ' Çerez ', ' Dil ', ' İyi ', ' Sorun ', ' Menü',
+            ' HAYIR ', 'kuş','bilgisayar''su'
+            'evet', 'Uygulama','et', 'O' 'sen' 'ben' 'kız' 'erkek' 'onun' 'için' 'biz' 'niye' 'onlar' 'yine'
+        ],
         pl: [
             " ty ", " ja ", " do ", " i ", " że ", " to ", " z ", " ja ",
-            " co ", " jest ", " w ", " ten ", " wiem ", " dla ", " no ", " have ", " my ", // "no" stands for "yes" in Polish lol
+            " co ", " jest ", " w ", " ten ", " wiem ", " dla ", " have ", " my ",
             " t ", " właśnie ", " nie ", " zrobić ", " będę ", " na ", " twoje ", " było ", " my ",
             " jej ", " jemu ", " do ", " kurwa ", " debil ", " chuj ", " przez ", " od ", " po ", "że",
             " jeszcze ", " tej ", " może ", " jednak ", " bardzo ", " tysięcy ", " siema ", " innymi ",
