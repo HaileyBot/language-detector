@@ -26,4 +26,4 @@ console.log(detectLang("This will print 'en' to the console"));
 ```
 
 ## License
-This project is licensed under [AGPL-3.0](https://github.com/HaileyBot/captcha-generator/blob/master/LICENSE)
+This project is licensed under [AGPL-3.0](https://github.com/HaileyBot/language-detector/blob/master/LICENSE)
