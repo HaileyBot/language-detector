@@ -5,7 +5,7 @@ module.exports = text => {
             " you ", " i ", " to ", " the ", " a ", " and ", " that ", " it ", " of ", " me ",
             " what ", " is ", " in ", " this ", " know ", " m ", " for ", " no ", " have ", " my ",
             " t ", " just ", " not ", " do ", " be ", " on ", " your ", " was ", " we ", " s ",
-            "the", "and", "ing", "ent", "ion", "her", "for", "tha", "nth", "int", "yeet", "lol", "ey", "ck", "yes"
+            "the", "and", "ing", "ent", "ion", "her", "for", "tha", "nth", "int", "yeet", "lol", "ey", "ck", "yes","hello"
         ],
         es: [
             " que ", " de ", " no ", " a ", " la ", " el ", " es ", " y ", " en ", " lo ",
