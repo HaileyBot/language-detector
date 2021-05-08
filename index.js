@@ -7,6 +7,12 @@ module.exports = text => {
             " t ", " just ", " not ", " do ", " be ", " on ", " your ", " was ", " we ", " s ",
             "the", "and", "ing", "ent", "ion", "her", "for", "tha", "nth", "int", "yeet", "lol", "ey", "ck", "yes"
         ],
+        de: [
+            " du ", " ich ", " zu ", " der ", " die ", " das ", " ein ", " und ", " es ", " von ", " mich ",
+            " was ", " ist ", " im ", " diese ", " dieser ", " dieses ", " weiss ", " fuer ", " für ", " nein ", " haben ", " mein ",
+            " nur ", " nicht ", " tun ", " sein ", " auf ", " dein ", " deine ", " deiner ", " deines ", " war ", " wir ",
+            "der", "und", "ihr"
+        ],
         es: [
             " que ", " de ", " no ", " a ", " la ", " el ", " es ", " y ", " en ", " lo ",
             " un ", " por ", " me ", " una ", " te ", " los ", " se ", " con ", " para ", " mi ",
