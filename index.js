@@ -41,9 +41,9 @@ module.exports = text => {
         ],
         tr: [
             " ama", " demek ", "çok", "ara ", " tr", "sa ", " as ", " ne ", " garip ",
-            " kopya ", " yap ", " bb ", " ana ", " sayfa ", " Çerez ", " Dil ", " İyi ", " Sorun ", " Menü",
-            " HAYIR ", "kuş", "bilgisayar", "su",
-            "evet", "Uygulama", "et", "O", "sen", "ben", "kız", "erkek", "onun", "için", "biz", "niye", "onlar", "yine"
+            " kopya ", " yap ", " bb ", " ana ", " sayfa ", " çerez ", " dil ", " iyi ", " sorun ", " menü ",
+            " hayir ", " kuş ", " bilgisayar ", " su ", " evet ", " uygulama ", " et ", " o ", " sen ",
+            " ben ", " kız ", " erkek ", " onun ", " için ", " biz ", " niye ", " onlar ", " yine "
         ]
     };
 
